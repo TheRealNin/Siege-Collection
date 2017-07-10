@@ -1,0 +1,7 @@
+name        = "SiegePlusPlus Collection"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[SiegePlusPlus Collection]=]
+image       = "preview.jpg"
+tag_modtype = "Gameplay Tweak"
+tag_support = "Must be run on Server"
