@@ -16,3 +16,4 @@ cp -R ../SiegeBalance/output/* $dest
 cp -R ../sg_trimsiege/output/* $dest
 cp -R ../AlienAtmos/output/* $dest
 cp -R ../SiegeMapPrefix/output/* $dest
+cp -R ../FadeAcidRocket/output/* $dest
