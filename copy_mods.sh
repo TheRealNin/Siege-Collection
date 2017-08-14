@@ -19,3 +19,5 @@ cp -R ../SiegeMapPrefix/output/* $dest
 cp -R ../FadeAcidRocket/output/* $dest
 cp -R ../SpiderGorge/output/* $dest
 cp -R ../shine_alltalk_reset/output/* $dest
+cp -R ../HideableGorgeTunnels/output/* $dest
+cp -R ../TwoChannelPhaseGates/output/* $dest
