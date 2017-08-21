@@ -4,6 +4,7 @@ dest="./output/"
 rm -r $dest*
 
 cp -R ../EggSpawn/output/* $dest
+cp -R ../CommunityFixes/output/* $dest
 #cp -R ../HadesDevice/output/* $dest
 cp -R ../ModPanels/output/* $dest
 cp -R ../ThirdPerson/output/* $dest
