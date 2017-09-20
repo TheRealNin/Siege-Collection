@@ -20,5 +20,8 @@ cp -R ../SiegeMapPrefix/output/* $dest
 cp -R ../FadeAcidRocket/output/* $dest
 cp -R ../SpiderGorge/output/* $dest
 cp -R ../shine_alltalk_reset/output/* $dest
+cp -R ../shine_tachi_extras/output/* $dest
 cp -R ../HideableGorgeTunnels/output/* $dest
 cp -R ../TwoChannelPhaseGates/output/* $dest
+cp -R ../SiegeBadges/output/* $dest
+cp -R ../ArmoryGUI/output/* $dest
