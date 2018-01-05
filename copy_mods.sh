@@ -28,3 +28,4 @@ cp -R ../SiegeBadges/output/* $dest
 cp -R ../ArmoryGUI/output/* $dest
 cp -R ../SgShine/output/* $dest
 cp -R ../MinimapBuildings/output/* $dest
+cp -R ../NinJetpack/output/* $dest
