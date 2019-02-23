@@ -4,8 +4,8 @@ dest="./output/"
 rm -r $dest*
 
 cp -R ../EggSpawn/output/* $dest
-cp -R ../BabblerEggAndBait/output/* $dest
-cp -R ../CommunityFixes/output/* $dest
+#cp -R ../BabblerEggAndBait/output/* $dest
+cp -R ../NS2Fixes/output/* $dest
 #cp -R ../HadesDevice/output/* $dest
 cp -R ../ModPanels/output/* $dest
 cp -R ../ThirdPerson/output/* $dest
@@ -25,6 +25,6 @@ cp -R ../HideableGorgeTunnels/output/* $dest
 cp -R ../TwoChannelPhaseGates/output/* $dest
 cp -R ../SiegeBadges/output/* $dest
 cp -R ../ArmoryGUI/output/* $dest
-cp -R ../SgShine/output/* $dest
+#cp -R ../SgShine/output/* $dest
 cp -R ../MinimapBuildings/output/* $dest
 cp -R ../NinJetpack/output/* $dest
